@@ -6,7 +6,7 @@ class Content extends Component {
     return (
       <div className="Content">
         <section>
-          <h3>Hit The Button !!</h3>
+          <h3> {this.props.content || "Hit The Button"} </h3>
         </section>
       </div>
     );
