@@ -1,0 +1,21 @@
+.Content{
+    width: 100%;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+section{
+    background-color: #BD7D32;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 2em;
+    color: #5A2C1E;
+}
+
+h3{
+    margin: 0;
+}
